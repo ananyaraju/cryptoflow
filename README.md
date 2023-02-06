@@ -30,3 +30,8 @@ npx hardhat run --network goerli scripts/deploy.js
 ```
 
 5. npm start
+
+## Contributors
+
+* [Nishanth Pilli](https://github.com/dr4g0n7ly)
+* [Ananya Raju](https://github.com/ananyaraju)
