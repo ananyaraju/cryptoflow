@@ -12,7 +12,7 @@ It uses Pinata IPFS to store meta-data to increasing transcation speed and hence
 
 <p float="left">
   <img src="https://github.com/ananyaraju/cryptoflow/blob/master/public/read-me_logo/ReactJS.png" height="80" />
-  <img src="https://github.com/ananyaraju/cryptoflow/blob/master/public/read-me_logo/Solidity.jpeg" height="80" />
+  <img src="https://github.com/ananyaraju/cryptoflow/blob/master/public/read-me_logo/Solidity.jpeg" height="80" width="90"/>
   <img src="https://github.com/ananyaraju/cryptoflow/blob/master/public/read-me_logo/nodejs.png" height="80" />
   <img src="https://github.com/ananyaraju/cryptoflow/blob/master/public/read-me_logo/pinata.png" height="80" />
   <img src="https://github.com/ananyaraju/cryptoflow/blob/master/public/read-me_logo/bootstrap.png" height="80" />
