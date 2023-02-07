@@ -43,8 +43,11 @@ npx hardhat run --network goerli scripts/deploy.js
 
 <div align="center">
   <img src="https://github.com/ananyaraju/cryptoflow/blob/master/public/read-me_img/img1.png" width="500" />
+  
   <img src="https://github.com/ananyaraju/cryptoflow/blob/master/public/read-me_img/img2.png" width="500" />
+  
   <img src="https://github.com/ananyaraju/cryptoflow/blob/master/public/read-me_img/img3.png" width="500" />
+  
   <img src="https://github.com/ananyaraju/cryptoflow/blob/master/public/read-me_img/img4.png" width="500" />
 </div>
 
