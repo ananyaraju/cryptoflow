@@ -1,7 +1,7 @@
 # CryptoFlow
 
 CryptoFlow is a blockchain-based e-commerce website that enables any user with MetaMask to participate in an open trading system where they can buy/sell products for a fixed price or engage in auctions.
-It uses Pinata IPFS to store meta-data hence, decreasing gas fees while increasing transcation speed.
+It uses Pinata IPFS to store meta-data to increasing transcation speed and hence decreasing gas fees.
 
 ## Built With
 * React
