@@ -10,6 +10,14 @@ It uses Pinata IPFS to store meta-data hence, decreasing gas fees while increasi
 * Pinata IPFS
 * Bootstrap
 
+<p float="left">
+  <img src="https://github.com/ananyaraju/cryptoflow/blob/master/public/read-me_logo/ReactJS.png" height="80" />
+  <img src="https://github.com/ananyaraju/cryptoflow/blob/master/public/read-me_logo/Solidity.jpeg" height="80" width="90"/>
+  <img src="https://github.com/ananyaraju/cryptoflow/blob/master/public/read-me_logo/nodejs.png" height="80" />
+  <img src="https://github.com/ananyaraju/cryptoflow/blob/master/public/read-me_logo/pinata.png" height="80" />
+  <img src="https://github.com/ananyaraju/cryptoflow/blob/master/public/read-me_logo/bootstrap.png" height="80" />
+</p>
+
 ## Getting Started
 
 1. make '.env' file
@@ -30,6 +38,15 @@ npx hardhat run --network goerli scripts/deploy.js
 ```
 
 5. npm start
+
+## Screenshots
+
+<div align="center">
+  <img src="https://github.com/ananyaraju/cryptoflow/blob/master/public/read-me_img/img1.png" width="500" />  
+  <img src="https://github.com/ananyaraju/cryptoflow/blob/master/public/read-me_img/img2.png" width="500" />  
+  <img src="https://github.com/ananyaraju/cryptoflow/blob/master/public/read-me_img/img3.png" width="500" />  
+  <img src="https://github.com/ananyaraju/cryptoflow/blob/master/public/read-me_img/img4.png" width="500" />
+</div>
 
 ## Contributors
 
