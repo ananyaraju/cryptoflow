@@ -8,6 +8,7 @@ import './SellProduct.css';
 import back from '../public/back.png';
 
 const SellProduct = () => {
+    
     const [formParams, updateFormParams] = useState({ name: '', description: '', price: '', category: '1'});
     const [fileURL, setFileURL] = useState(null);
     const ethers = require("ethers");
